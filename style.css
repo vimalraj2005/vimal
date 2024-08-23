@@ -1,0 +1,72 @@
+ul,
+li {
+  background-color: rgb(255, 255, 255);
+  display: inline-block;
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 20px;
+  box-shadow: 0 5px 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+* {
+  background-color: rgb(242, 197, 249);
+}
+#one {
+  font-size: 275%;
+  text-shadow: 25px 25px
+    color(srgb rgb(255, 255, 255) rgb(255, 255, 255) rgb(255, 255, 255));
+  font-weight: bold;
+}
+
+#programming-language,
+.skills {
+  margin-bottom: 20px;
+}
+.progress-bar {
+  background-color: black;
+  width: 20%;
+  height: 5px;
+  border-radius: 10px;
+}
+.progress {
+  background-color: transparent;
+  height: 100%;
+  border-radius: 10px;
+}
+#i,
+#j,
+#k {
+  font-size: 150%;
+}
+form {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 5px 15px color(rgb(2, 2, 2) grergb(0, 0, 0) ue);
+}
+form input,#a, textarea,button {
+  background-color: rgb(255, 255, 255);
+}
+#name,
+#email,
+#message {
+  width: calc(100% - 20px);
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid color(srgb rgb(0, 0, 0) rgb(11, 11, 11) rgb(0, 0, 0));
+  background-color: rgb(255, 255, 255);
+}
+#p,
+#q,
+#r {
+  font-size: 125%;
+  background-color: aliceblue;
+}
+#t {
+  max-width: 500px;
+  width: 30px auto;
+  padding: 30px;
+  background-color: rgb(242, 242, 239);
+  box-shadow: 0 5px 15px;
+}
